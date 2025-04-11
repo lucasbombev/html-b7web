@@ -1,0 +1,6 @@
+#quebra_maldicao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ajuste conforme necessário */
+}
